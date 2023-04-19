@@ -17,7 +17,6 @@
 ---
 [marriage_age_prediction](https://github.com/TaufiqueSekh/marriage_age_prediction)
 
-![image](https://user-images.githubusercontent.com/13853670/233082214-c1c95409-601f-4269-8a13-d3f6b68879f7.png)
 ---
 
 ### DATA ENGINEER PROJECT
