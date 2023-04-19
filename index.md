@@ -5,7 +5,6 @@
 ### Category Name 1 
 
 [Image Caption Generator with CNN](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ![image](https://user-images.githubusercontent.com/13853670/233075257-17347db2-696a-4808-bd71-b76898b5ecb2.png)
 
 
